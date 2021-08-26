@@ -1,7 +1,7 @@
 ### Olá, me chamo Ivan!
 
 * ⚡ Hoje trabalho com a **gestão energética** de diversas empresas
-* 🌱 Estou estudando Ciências dos Dados e desenvolvimento Web Full Stack
+* 🌱 Estou estudando Ciências de Dados e desenvolvimento Web Full Stack
 * 😄 Pronomes: ele/dele
 
 <div>
