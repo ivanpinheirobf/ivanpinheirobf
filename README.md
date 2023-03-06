@@ -1,8 +1,8 @@
 ### Olá, me chamo Ivan!
 
-* ⚡ Hoje trabalho com a **gestão energética** de diversas empresas
-* 🌱 Estou estudando Ciências de Dados e desenvolvimento Web Full Stack
-* 😄 Pronomes: ele/dele
+* ⚡ Como Engenheiro Eletricista, trabalho com a **gestão energética** de diversas empresas.
+* 🤖 Além de energia, sou apaixonado por **dados**, onde tenho formação em Analytics Engineer e Data Scientist.
+* 🌱 Estou estudando para me tornar um ótimo **Product Owner!**
 
 <div>
   <a href="https://github.com/ivanpinheirobf">
