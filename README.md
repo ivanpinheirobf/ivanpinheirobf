@@ -2,7 +2,7 @@
 
 * ⚡ Como Engenheiro Eletricista, trabalho com a **gestão energética** de diversas empresas.
 * 🤖 Além de energia, sou apaixonado por **dados**, onde tenho formação em Analytics Engineer e Data Scientist.
-* 🌱 Estou estudando para me tornar um ótimo **Product Owner!**
+* 🌱 Atual estou como **Product Owner!**
 
 <div>
   <a href="https://github.com/ivanpinheirobf">
