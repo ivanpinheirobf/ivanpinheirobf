@@ -2,7 +2,7 @@
 
 * ⚡ Como Engenheiro Eletricista, trabalho com a **gestão energética** de diversas empresas.
 * 🤖 Além de energia, sou apaixonado por **dados**, onde tenho formação em Analytics Engineer e Data Scientist.
-* 🌱 Atual estou como **Product Owner!**
+* 🌱 Atualmente estou como **Product Owner!** e **Desenvolvedor FullStack (Node.JS e Next.JS)**
 
 <div>
   <a href="https://github.com/ivanpinheirobf">
